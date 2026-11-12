@@ -5,14 +5,8 @@
 layout: home
 ---
 
-Welcome to **Computer Programming for Linguists**. This is an online course to
-teach you the basics of Python (and eventually introductory computational
-linguistics). It's geared towards linguists, and will use examples related to
-linguistics at many points.
+Welcome to **LIN240: Computer Programming for Linguists**. This is a course, geared towards
+linguists, to teach you the basics of Python.
 
 We recommend that you head over to *Getting Started* for more of a rundown. If
 you want to know more about who we are, check out *About*.
-
-We're also hosting a workshop in early September! More information will be
-available here shortly.
-
