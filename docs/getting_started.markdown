@@ -15,10 +15,9 @@ config:
 ### Modules
 
 Computer Programming for Linguists (CPFL) is a modular approach to learning how to
-program in Python, targetted to anyone with a background in linguistics. It
-currently consists of four modules that will teach you the basics of Python
-(variables, statements, conditionals, loops, lists). In the future, it will
-also contain material covering introductory computational linguistics.
+program in Python, targetted to anyone with a background in linguistics. The materials
+on this website consist of eight modules that will teach you the basics of Python
+(variables, statements, conditionals, loops, lists).
 
 <pre class="mermaid">
 flowchart LR
@@ -46,8 +45,6 @@ progress as you go. We recommend that you do every problem set. At the end of
 each module is a test. Autograding the test and getting at least 80% will give
 you a password that you can use to access the next module.
 
-Modules E and beyond are not yet implemented
-
 ### Jupyter
 
 Every lesson in CPFL is built as a Jupyter notebook. Jupyter notebooks are
@@ -74,20 +71,19 @@ For some exercises, we might ask you to refer to a "line number". To enable
 these, press `Shift+L`. We'll remind you of this in any exercises where we use
 this.
 
-No more configuring should be necessary for modules A through D. However, when more
-modules are released, you may want to return here for further instructions.
-
 ### Downloading New Modules
 
 (These instructions are repeated in `Hub.ipynb`)
 
 For your first module, you should be able to simply press the "Restart the
 kernel and run all cells" button at the top of your screen (see image).
-![image][runall-img]. Then, in the table showcasing the content for modules A
-through D, click on module A lesson 1 to get started.
+![image][runall-img]. Then, in the table showcasing the content for all modules,
+click on module A lesson 1 to get started.
 
 For each next module, you'll get a password from passing the previous
-end-of-module test. Specifically, when you autograde the notebook and get a score of 4/5, at the bottom of the output you should see the password in quotation marks. Enter this into the `password = "..."` variable, save the
+end-of-module test. Specifically, when you autograde the notebook and get a score of 4/5, 
+at the bottom of the output you should see the password in quotation marks. 
+Enter this into the `password = "..."` variable, save the
 file with `Ctrl+S`, and then run all cells. This will download the next module for you.
 
 ### Autograding
